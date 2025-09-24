@@ -230,7 +230,7 @@ st.markdown("""
 # Header section
 st.markdown("""
 <div class="main-header animated-card">
-    <div class="main-title">🌊 RainSmart</div>
+    <div class="main-title">🌊 HydroYield</div>
     <div class="main-subtitle">Intelligent Rooftop Rainwater Harvesting & Recharge Estimator</div>
 </div>
 """, unsafe_allow_html=True)
@@ -646,3 +646,4 @@ st.markdown("""
     <p><em>For production deployment, implement secure aggregation protocols and backend infrastructure.</em></p>
 </div>
 """, unsafe_allow_html=True)
+
